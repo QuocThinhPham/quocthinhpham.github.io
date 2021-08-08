@@ -4,7 +4,7 @@ const hour = minute * 60;
 const day = hour * 24;
 
 // time to countdown
-const countDate = new Date("Feb 12, 2021 00:00:00");
+const countDate = new Date("Feb 1, 2022 00:00:00");
 
 // countdown function
 countdown = () => {
